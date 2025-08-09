@@ -59,7 +59,7 @@ High suspicious activity observed on specific non-standard ports and from certai
 High bytes_in with low bytes_out may indicate infiltration attempts.
 Repeated activity from the same IP range could indicate bots or targeted attacks.
 Non-standard ports often correlate with unauthorized access attempts.
-
+It can be executed for real time datasets, if datset containing threat detections.
 
 
 
